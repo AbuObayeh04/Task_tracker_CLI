@@ -28,8 +28,8 @@ Built with **Node.js** only. No external libraries, just the built-in `fs` modul
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/AbuObayeh04/Task_tracker_CLI.git
+cd Task_tracker_CLI
 ```
 
 There is nothing to install, the project uses built-in Node.js modules only.
